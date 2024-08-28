@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+}
+
+.textsection{
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons{
+    display: flex;
+    width: auto;
+}
+.texto2, .texto1{
+    width: 20rem;
+    height: 50vh;
+}
